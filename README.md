@@ -7,6 +7,6 @@
 
 4. All Example Use (application/json) ContentType verb 
 
-5. All Example Use (application/json)A ccept verb 
+5. All Example Use (application/json) Accept verb 
 
 
