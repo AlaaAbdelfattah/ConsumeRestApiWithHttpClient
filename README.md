@@ -1,5 +1,5 @@
 # Consume Rest Api Service With Http Client
-1. ConsumeRestApiWithHttpClient application describe how we can consume REST Api service by HttpClient .net class 
+1. ConsumeRestApiWithHttpClient application describe how we can consume REST Api service by HttpClient .NET class 
 
 2. ConsumeRestApiWithHttpClient contains more options, to  control which option you need to  work, kindly change in  app config file 
 
