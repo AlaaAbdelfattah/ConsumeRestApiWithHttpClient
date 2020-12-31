@@ -1,0 +1,16 @@
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\NICMulesoftConsoleApp\bin\Debug\MulesoftConsoleApp.exe.config
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\NICMulesoftConsoleApp\bin\Debug\MulesoftConsoleApp.exe
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\NICMulesoftConsoleApp\bin\Debug\MulesoftConsoleApp.pdb
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\NICMulesoftConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\NICMulesoftConsoleApp\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\NICMulesoftConsoleApp\obj\Debug\MulesoftConsoleApp.csprojResolveAssemblyReference.cache
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\NICMulesoftConsoleApp\obj\Debug\MulesoftConsoleApp.exe
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\NICMulesoftConsoleApp\obj\Debug\MulesoftConsoleApp.pdb
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\MulesoftConsoleApp\bin\Debug\MulesoftConsoleApp.exe.config
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\MulesoftConsoleApp\bin\Debug\MulesoftConsoleApp.exe
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\MulesoftConsoleApp\bin\Debug\MulesoftConsoleApp.pdb
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\MulesoftConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\MulesoftConsoleApp\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\MulesoftConsoleApp\obj\Debug\MulesoftConsoleApp.csprojResolveAssemblyReference.cache
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\MulesoftConsoleApp\obj\Debug\MulesoftConsoleApp.exe
+D:\Projects\Alaa\git\stcpay\MusandSolution\TestPath\MulesoftConsoleApp\obj\Debug\MulesoftConsoleApp.pdb
